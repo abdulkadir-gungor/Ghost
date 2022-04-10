@@ -172,6 +172,16 @@ Some images of the working of the program
 ![10](https://user-images.githubusercontent.com/71177413/162612315-b7bf2aa0-f349-4e85-b22c-aab987ca43d1.JPG)
 
 
+[7]
+
+![13](https://user-images.githubusercontent.com/71177413/162613543-95a90c3f-f4c6-434b-b05e-a91769ee9096.JPG)
+
+
+[8]
+
+![14](https://user-images.githubusercontent.com/71177413/162613551-a6027fef-7673-46a5-933f-251f4f26efcb.JPG)
+
+
 Windows Defender
 -----------------
 As of 10/04/2022, It is not caught by the Windows Defender program. Over time this will change.
