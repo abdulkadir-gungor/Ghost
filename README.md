@@ -47,7 +47,7 @@ pip install pyinstaller
 
 
 Settings
---------------
+---
 
 **(1) master.py**
 
@@ -104,7 +104,7 @@ Settings
 
 
 Compilation
-------------
+---
 
 (show console for slave.py)
 
@@ -122,7 +122,7 @@ pyinstaller --onefile --noconsole --icon=slave.ico slave.py
 ```
 
 Commands for Master.py
------------------------
+---
 
 `commands      ==> Shows commands very briefly.`
 
@@ -135,13 +135,13 @@ Commands for Master.py
 
 
 Notes
--------
+---
 First, master.py should be run, then slave.py should be run. Otherwise, slave.py will wait for the timeout and try to connect again.
 
 
 
 Some Images of the Working of the Program
-------------------------------------
+---
 
 [1] 
 
@@ -180,15 +180,15 @@ Some Images of the Working of the Program
 
 [8]
 
-![14](https://user-images.githubusercontent.com/71177413/162613551-a6027fef-7673-46a5-933f-251f4f26efcb.JPG)
+![14](https://user-images.githubusercontent.com/71177413/162615941-394026f7-26a3-467c-bacd-20665c7ebb1c.JPG)
 
 
 Windows Defender
------------------
+---
 As of 10/04/2022, It is not caught by the Windows Defender program. Over time this will change.
 
 
 Legal Warning
-------------------
+---
 Run your tests on virtual machines. The responsibility for illegal use belongs to the user. Shared for educational purposes.
 
