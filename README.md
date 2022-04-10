@@ -23,15 +23,17 @@ The compiled version of the program can be downloaded from the links below.
 --------------------------------------------------------------------------
 1) Compiled without using the "--noconsole" command 
   
-  ghost_v4_showconsole.rar ==> zip password: "ghost_v4"
+   ghost_v4_showconsole.rar ==> zip password: "ghost_v4"
 
-  https://drive.google.com/file/d/1HP1k290aP3AUrUK29sgq-GRfaxSKxcJJ/view?usp=sharing
+   https://drive.google.com/file/d/1d_8ghw7vlULQ26KI1hbJaTmT_d3QQY8W/view?usp=sharing
+  
 
 2) Compiled using the "--noconsole" command
 
   ghost_v4_noconsole.rar ==> zip password: "ghost_v4"
-
-  https://drive.google.com/file/d/18KQ2JjyOAwZ34Gn_hYyUJMPNq6XeqhhS/view?usp=sharing
+  
+  https://drive.google.com/file/d/1Oxeva5fwwTeRRJLv_7o12Lby4AXeFnEq/view?usp=sharing
+  
 
 
 Requirements
