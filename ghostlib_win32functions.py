@@ -156,7 +156,7 @@ def f7_zip_create_file(zip_file, file):
 #
 def f8_start(program):
     try:
-        subprocess.run(program)
+        subprocess.call(program, timeout=5)
         return True
     except:
         return False
