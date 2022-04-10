@@ -92,9 +92,9 @@ Settings
   <dd>
   <dd> master -udp -c:cp857  -t:00 8080             ==> (8080 port)
   <dd> master -tcp -c:utf-8  -t:600 9393            ==> (9393 port)
-  <dd> master 7272                                  ==> (7272 port
-  <dd> slave  -udp -c:cp857  -t:600 1.1.1.1:8080    ==> (1.1.1.1 ip - 8080 port
-  <dd> slave  -tcp -c:utf-8  -t:00  1.1.1.1:9393    ==> (1.1.1.1 ip - 9393 por
+  <dd> master 7272                                  ==> (7272 port)
+  <dd> slave  -udp -c:cp857  -t:600 1.1.1.1:8080    ==> (1.1.1.1 ip - 8080 port)
+  <dd> slave  -tcp -c:utf-8  -t:00  1.1.1.1:9393    ==> (1.1.1.1 ip - 9393 port)
   <dd> slave 3.3.3.3:7272                           ==> (3.3.3.3 ip - 7272 port)
 </dl>
 
@@ -112,7 +112,6 @@ Compilation
 pyinstaller --onefile --icon=master.ico master.py
 
 pyinstaller --onefile --icon=slave.ico slave.py
-
 ```
 or (hide console for slave.py)
 
