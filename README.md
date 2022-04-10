@@ -124,12 +124,12 @@ pyinstaller --onefile --noconsole --icon=slave.ico slave.py
 Commands for Master.py
 ---
 
-`commands      ==> Shows commands very briefly.`
+`commands      # Shows commands very briefly.`
 
 ![3](https://user-images.githubusercontent.com/71177413/162611768-9e3e7ad6-298a-4c7d-b907-320f2696003a.JPG)
 
 
-`help          ==> Shows commands in detail.`
+`help          # Shows commands in detail.`
 
 ![4](https://user-images.githubusercontent.com/71177413/162611775-ed01e4f7-4dfb-4aa0-a6cb-9b7877528e1f.JPG)
 
@@ -185,7 +185,7 @@ Some Images of the Working of the Program
 
 Windows Defender
 ---
-As of 10/04/2022, It is not caught by the Windows Defender program. Over time this will change.
+As of 10/04/2022, it is not caught by the Windows Defender program. Over time this will change.
 
 
 Legal Warning
