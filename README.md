@@ -174,7 +174,7 @@ Some images of the working of the program
 
 Windows Defender
 -----------------
-As of 10/04/2022, It is caught by the Windows Defender program. Over time this will change.
+As of 10/04/2022, It is not caught by the Windows Defender program. Over time this will change.
 
 
 legal warning
