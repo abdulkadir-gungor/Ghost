@@ -105,6 +105,7 @@ Settings
 
 Compilation
 ---
+[Language : Python 3.8.5]
 
 (show console for slave.py)
 
